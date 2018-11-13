@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.0.47",
+    "gatsby-source-contentful": "^2.0.14",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
