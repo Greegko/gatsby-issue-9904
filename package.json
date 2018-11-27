@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gatsby": "^2.0.47",
-    "gatsby-source-contentful": "^2.0.14",
+    "gatsby": "^2.0.55",
+    "gatsby-source-contentful": "2.0.15",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   }
